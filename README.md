@@ -37,4 +37,4 @@ By leveraging Power BI, DAX calculations, and data visualization techniques, I d
 ## Outcome
 
 Successfully developed an end-to-end Bank Loan Portfolio Performance Dashboard that transforms raw loan data into meaningful business insights. The dashboard enables efficient monitoring of lending performance, portfolio quality, and borrower behavior while supporting data-driven decision-making in banking and financial services.
-# Employee-Attrition-and-Workforce-analysis
+
