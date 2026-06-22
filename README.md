@@ -35,7 +35,7 @@ Using Power BI, DAX measures, and data visualization techniques, I developed a c
 
 ## Dashboard Preview
 
-### Executive & Finance Overview
+### HR Workforce & Attrition Analytics Dashboard
 
 <img src="https://github.com/Sanketnaik-467/Employee-Attrition-and-Workforce-analysis/blob/f6ad748bb0a6568afede080cd887eb83e0cb9233/HR_Employee_Attrition_Dashboard.png" alt="Image Description" width="600">
 
